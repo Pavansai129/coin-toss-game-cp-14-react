@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.app-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.result-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.count {
+  margin-right: 20px;
+}

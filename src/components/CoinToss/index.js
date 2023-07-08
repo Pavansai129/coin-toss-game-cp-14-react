@@ -24,7 +24,7 @@ class CoinToss extends Component {
   render() {
     const {coinImage, headsCount, tailsCount} = this.state
     return (
-      <div className="app-container">
+      <div className="app-bg-container">
         <div className="app-card-container">
           <h1>Coin Toss Game</h1>
           <p>Heads (or) Tails</p>
